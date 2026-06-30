@@ -31,8 +31,7 @@ This project is an interactive **Power BI Sales Dashboard** built using the Samp
 ---
 
 ## Dashboard Preview
-
-![Dashboard](Dashboard.png)
+<img width="1322" height="742" alt="image" src="https://github.com/user-attachments/assets/5951d779-d21c-403a-abe7-56cee0e2c01d" />
 
 ---
 
